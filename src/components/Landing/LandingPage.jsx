@@ -1,9 +1,9 @@
-import styles from './LandingPage.module.css'
+import styles from '../LandingPage.module.css'
 
 const LandingPage = () => {
 
   return (
-    <div>
+    <div className={styles.header}>
       
     </div>
   )
